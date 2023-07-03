@@ -1,2 +1,2 @@
 # Codelândia
-<p>:white_large_square: Desafio 01</p>
+<p>:white_check_mark: Desafio 01</p>
